@@ -1,0 +1,47 @@
+.back{
+    margin-top: 30px;
+    display: flex;
+    width: 100%;
+    height: 200px;
+    background-color: black;
+    justify-content: space-around;
+    color: white;
+    border-radius: 30px;
+}
+.back h3{
+    width: 250px;
+    padding-top: 50px;
+}
+
+.dav{
+    display: block;
+    width: 150px;
+    height: 40px;
+    background-color: #4117EA;
+    color:  white;
+    font-family: Bodoni Bd BT;
+    border: 2px solid #4117EA;
+    border-radius: 15px;
+    margin: 5px 5px;
+    text-align: center;
+    margin-left: 60px;
+}
+.photo:hover{
+    transform: scale(1.1);
+}
+.text{
+    font-family: Bodoni Bd BT;
+    font-weight: bold;
+    font-size: 60px;
+}
+.footer{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    border: 1px solid black;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    padding: 15px;
+    margin-top: 20px;
+}
